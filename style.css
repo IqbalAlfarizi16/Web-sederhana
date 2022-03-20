@@ -50,7 +50,7 @@ table {
 
 body {
 	font:16px/28px arial, sans-serif; /*ukuran font/jarak antar baris font yg digunakan*/
-	background-image: url(../../Gambar/guar.jpg);
+	background-image: url(Gambar/guar.jpg);
 	color: #333;
 }
 
@@ -107,7 +107,7 @@ body {
 
 .hero {
 	height: 300px ;
-	background-image: url(../../Gambar/Mirai2.jpg);
+	background-image: url(Gambar/Mirai2.jpg);
 	background-position: -80px -130px; /*mengatur posisi gambar (kk & ab)*/
 	border-top: 5px solid salmon;
 	border-bottom: 5px solid lightskyblue
