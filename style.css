@@ -171,8 +171,9 @@ body {
 }
 
 .sidebar .Mirai {
-	text-decoration: line-through;
-	color: #cccccc;
+	text-decoration: bold;
+	color: darksalmon;
+	text-align: center;
 }
 
 .footer {
